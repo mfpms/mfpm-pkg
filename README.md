@@ -1,2 +1,2 @@
-# mufpkg
-The package manager of mufpkg
+# mfpk
+The package manager of mfpkg
