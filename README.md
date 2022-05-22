@@ -1,2 +1,2 @@
 # mfpk
-The package manager of mfpkg
+The package manager of mfpm
